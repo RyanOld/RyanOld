@@ -1,7 +1,14 @@
-# Hello there!
+### Hello there!
 I'm Ryan and I'm currently learning some Back-End Development with Node.js and Machine Learning with Python.<br>
-I'm looking to collaborate more Node.js or Tensorflow stuffs so if you need some help, feel free to let me know!
+I'm looking to collaborate more on Node.js or Tensorflow stuffs so if you need some help, feel free to let me know!
 
+### Code Statistics
+<p align="left">
+<a href="https://github.com/RyanOld">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RyanOld&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RyanOld&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **RyanOld/RyanOld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
