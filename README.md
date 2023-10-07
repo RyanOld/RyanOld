@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello there!
+I'm Ryan and I'm currently learning some Back-End Development with Node.js and Machine Learning with Python.
+I'm looking to collaborate more on the things that I learned so if someone needs a Backend Dev or an ML Dev then let me know!
 
 <!--
 **RyanOld/RyanOld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
