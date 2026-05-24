@@ -1,6 +1,6 @@
 ### Hello there!
-I'm Ryan and I'm currently learning some Back-End Development with Node.js and Machine Learning with Python.<br>
-I'm looking to collaborate more on Node.js or Tensorflow stuffs so if you need some help, feel free to let me know!
+I'm Ryan and I'm currently Data Science with Python and Machine Learning with Tensorflow.<br>
+I'm looking to collaborate more on Tensorflow stuffs so if you need some help, feel free to let me know!
 
 ### Code Statistics
 <p align="left">
