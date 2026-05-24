@@ -1,5 +1,5 @@
 ### Hello there!
-I'm Ryan and I'm currently Data Science with Python and Machine Learning with Tensorflow.<br>
+I'm Ryan and I'm currently learning Data Science with Python and particularly Machine Learning with Tensorflow.<br>
 I'm looking to collaborate more on Tensorflow stuffs so if you need some help, feel free to let me know!
 
 ### Code Statistics
